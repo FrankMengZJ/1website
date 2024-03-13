@@ -1,13 +1,6 @@
 ---
-title: "1website"
+title: "Zijun (Frank) Meng"
 ---
+Frank, a dedicated Bachelor of Information student, is passionate about employing machine learning to advance healthcare accessibility. With a burgeoning interest in the intersection of technology and health, he has actively participated in AI competitions, showcasing a strong foundation in machine learning. Currently, Frank is exploring Natural Language Processing (NLP), eager to broaden his understanding and apply these insights to health informatics. His goal is to leverage his growing expertise to contribute to making healthcare solutions more inclusive. 
 
-Good morning China, now I have bingchilling now
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

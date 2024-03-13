@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Test
+      - href: ZijunResume.pdf
+        text: Resume
 
 format:
   html:
