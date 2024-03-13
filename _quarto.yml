@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "1website"
+  title: "Zijun (Frank) Meng "
   navbar:
     left:
       - href: index.qmd
